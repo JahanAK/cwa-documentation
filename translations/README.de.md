@@ -10,9 +10,11 @@
 
 ## Corona-Warn-App: Dokumentation
 
-HINWEIS: Die [englische Version](<../README (1).md>) der README-Datei ist die maßgebliche Fassung. Bitte haben Sie dafür Verständnis, dass die deutsche Version möglicherweise nicht durchgängig auf dem neuesten Stand ist.
+HINWEIS: Die [englische Version](<../README (1).md>) der README-Datei ist die maßgebliche Fassung. Bitte haben Sie dafür Verständnis, dass die deutsche Version möglicherweise nicht durchgängig auf dem neuesten Stand ist.   ich schreibe was
 
 Hier ein Kommentar
+
+![](../images/solution\_architecture/ios\_releases.svg)
 
 ### Über dieses Projekt
 
