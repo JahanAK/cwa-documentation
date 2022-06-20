@@ -16,7 +16,7 @@ HINWEIS: Die [englische Version](<../README (1).md>) der README-Datei ist die ma
 
 Hier ein Kommentar
 
-{% embed url="https://youtu.be/MEQ0wzk1Cp8" %}
+
 
 ![](../images/solution\_architecture/ios\_releases.svg)
 
