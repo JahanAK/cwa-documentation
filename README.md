@@ -1,168 +1,80 @@
-<p align="center">
- <a href="https://www.coronawarn.app/en/"><img src="https://raw.githubusercontent.com/corona-warn-app/cwa-documentation/main/images/CWA_title.png" width="400"></a>
-</p>
 
-<hr />
-<p align="center">
-    <a href="#about-this-project">About this Project</a> •
-    <a href="#who-we-are">Who We Are</a> •
-    <a href="#credits">Credits</a> •
-    <a href="#data-privacy">Data Privacy</a> •
-    <a href="#code-of-conduct">Code of Conduct</a> •
-    <a href="#working-language">Working Language</a> •
-    <a href="#our-documentation">Our Documentation</a> •
-    <a href="#licensing">Licensing</a> •
-    <a href="#how-to-contribute">How to Contribute</a> •
-    <a href="https://www.coronawarn.app/en/">Website</a>
-</p>
-<hr />
+# Contributor Covenant Code of Conduct
 
-# Corona-Warn-App: Documentation
+## Our Pledge
 
-NOTE: This README is also available [in German](translations/README.de.md). Thank you for understanding that the German version might not always be up-to-date with the English one.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-HINWEIS: Diese README ist ebenfalls [auf Deutsch](translations/README.de.md) verfügbar. Bitte haben Sie Verständnis, dass die deutsche Version nicht immer auf dem gleichen Stand wie die englische Version ist.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## About this Project
+## Our Standards
 
-We are developing the official COVID-19 exposure notification app for Germany, called "<a href="https://www.coronawarn.app/en/">Corona-Warn-App</a>". This project has the goal to develop an app based on technology with a decentralized approach -  heavily inspired by the [DP-3T](https://github.com/DP-3T/documents) (Decentralized Privacy-Preserving Proximity Tracing, see [this comic](https://github.com/DP-3T/documents/tree/master/public_engagement/cartoon) for concept explanation) and [TCN](https://tcn-coalition.org/) protocols and based on the [Privacy-Preserving Contact Tracing specifications](https://www.apple.com/covid19/contacttracing/) by Apple and Google. Like DP-3T and the TCN Protocol, the apps and backend infrastructure will be entirely open source - licensed under the [Apache 2.0 license](LICENSE)! The apps (for iOS and Android) will collect pseudonymous data from nearby mobile phones using Bluetooth technology. The data will be stored locally on each device preventing access and control over data by authorities or anyone else. We will meet the applicable data protection standards and guarantee a high level of IT security. By doing so, we are addressing people's privacy concerns and thereby aiming to increase the adoption of the app.
+Examples of behavior that contributes to a positive environment for our community include:
 
-## Who We Are
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
 
-The German government has commissioned SAP and Deutsche Telekom to develop the Corona-Warn-App for Germany as open source software. Deutsche Telekom is providing the network and mobile technology and will operate and run the backend for the app in a safe, scalable and stable manner. SAP is responsible for the app development, its framework and the underlying platform. Therefore, development teams of SAP and Deutsche Telekom are contributing to this project. At the same time our commitment to open source means that we are enabling -in fact encouraging- all interested parties to contribute and become part of its developer community.
+Examples of unacceptable behavior include:
 
-## Credits
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-We'd like to thank all the partners who have been involved in this enormous project from the beginning. The project would not be where it is today without all the exploration and great work that had already been done around the [PEPP-PT](https://github.com/pepp-pt/pepp-pt-documentation) approach by partners on a European and national level. We will build on top of some of these components and appreciate how everyone is dedicated to making this new approach successful. Moreover, we would like to thank GitHub for their great support.
+## Enforcement Responsibilities
 
-## Data Privacy
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-In this project we are strictly observing the principles of the General Data Protection Regulation (GDPR) to protect the users’ privacy. We are processing necessary data only - exclusively for the purpose to let users know if they have come into close contact with other infected users, without revealing each other's identity. The compliance with these regulations is safeguarded by several procedures, e.g. by implementing technical and organizational measures adhering diligently to the high standards of the GDPR. Of course, the app will provide users with a comprehensive privacy statement to be as transparent and clear as possible. As we are developing the app as an open source project, the community can review it. We appreciate your feedback!
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-## Code of Conduct
+## Scope
 
-This project has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) in version 2.0 as our code of conduct. Please see the details in our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). All contributors must abide by the code of conduct.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-## Working Language
+## Enforcement
 
-We are building this application for Germany. We want to be as open and transparent as possible, also to interested parties in the global developer community who do not speak German. Consequently, all content will be made available primarily in _English_. We also ask all interested people to use English as language to create issues, in their code (comments, documentation etc.) and when you send requests to us. The application itself, documentation and all end-user facing content has - of course - been made available in German. Apart from the initial release in English and German, other languages have been added over time including Bulgarian, Polish, Romanian and Turkish. See the [FAQ available languages](https://www.coronawarn.app/en/faq/#available_languages) entry for more details. We also try to make developer documentation available in German, but please understand that focusing on the _Lingua Franca_ of the global developer community makes the development of this application as efficient as possible.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [corona-warn-app.opensource@sap.com](mailto:corona-warn-app.opensource@sap.com). All complaints will be reviewed and investigated promptly and fairly.
 
-## Our Documentation
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-This repository contains the developer documentation and related content.
+## Enforcement Guidelines
 
-### Project Scope
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-The project scope has been agreed on jointly by Deutsche Telekom AG and SAP SE as contractors and the German Federal Government and the Robert-Koch-Institut as clients. The project scope might change over time as new requirements need to be included or existing ones change. We appreciate feedback to all elements of this project scope document. However, additional features or any other content changes beyond fixes to grammatical issues or typos need to be aligned on by these partners before they can be included in the document. Thank you for your understanding!
+### 1. Correction
 
-- [Corona-Warn-App - Scoping Document](scoping_document.md)
-- [Corona-Warn-App - User Interface Screens](ui_screens.md)
+**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
 
-### Technical Documentation
+**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
-The technical documents are intended for a technical audience and represent the most recent state of the architecture. The solution architecture and concepts might change over time as external dependencies (e.g. the framework provided by Apple/Google) are still changing and new requirements need to be included or existing ones change. We appreciate feedback to all elements of these technical documents.
+### 2. Warning
 
-- [Corona-Warn-App - Solution Architecture](solution_architecture.md)
-- [Corona-Warn-App Server Architecture](https://github.com/corona-warn-app/cwa-server/blob/main/docs/ARCHITECTURE.md)
-- [Corona-Warn-App Verification Server Software Design](https://github.com/corona-warn-app/cwa-verification-server/blob/master/docs/architecture-overview.md)
-- [Corona-Warn-App Verification Portal Server Software Design](https://github.com/corona-warn-app/cwa-verification-portal/blob/master/docs/architecture-overview.md)
-- [Corona-Warn-App Test Result Server Software Design](https://github.com/corona-warn-app/cwa-testresult-server/blob/master/docs/architecture-overview.md)
-- [Corona-Warn-App Mobile Client (Android) Architecture](https://github.com/corona-warn-app/cwa-app-android/blob/main/docs/architecture-overview.md)
-- [Corona-Warn-App Mobile Client (iOS) Architecture](https://github.com/corona-warn-app/cwa-app-ios/blob/main/docs/architecture-overview.md)
-- [Criteria for the Evaluation of Contact Tracing Apps](pruefsteine.md)
-- [Corona-Warn-App Security Overview](overview-security.md)
-- [Corona-Warn-App Backend Infrastructure Architecture Overview](backend-infrastructure-architecture.pdf)
-- [How does the Corona-Warn-App identify an increased risk?](solution_architecture.md#mobile-applications)
-- [Epidemiological Motivation of the Transmission Risk Level (PDF)](transmission_risk.pdf), [(Rmd file)](transmission_risk.Rmd), [(bib references)](transmission_risk_references.bib)
-- [Corona-Warn-App Data Privacy Impact Assessment/DPIA (PDF, German)](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung.pdf), [DPIA Annex 1a](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage1a.pdf), [DPIA Annex 1b](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage1b.pdf), [DPIA Annex 1c](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage1c.pdf), [DPIA Annex 2](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage2.pdf), [DPIA Annex 3](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage3.pdf), [DPIA Annex 4](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage4.pdf), [DPIA Annex 5](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage5.pdf), [DPIA Annex 6](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage6.pdf), [DPIA Annex 7](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage7.pdf) and [DPIA Annex 8](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage8.pdf)
-- [Exposure Notification API Testing](2020_06_24_Corona_API_measurements.pdf)
-- [Event Registration](event_registration.md)
+**Community Impact**: A violation through a single incident or series of actions.
 
-To be published:
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
 
-- System Operation
+### 3. Temporary Ban
 
-### Glossary
+**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
 
-For an easier understanding of the used acronyms and special terms in our documents please see our [glossary](glossary.md).
+**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
 
-## Repositories
+### 4. Permanent Ban
 
-| Repository                   | Description                                                                                   |
-| ---------------------------- | --------------------------------------------------------------------------------------------- |
-| [cwa-app-android]            | Native Android app using the Apple/Google exposure notification API.                          |
-| [cwa-app-ccl]                | Common Covid Logic (CCL) for Android and iOS.                                                 |
-| [cwa-app-ios]                | Native iOS app using the Apple/Google exposure notification API.                              |
-| [cwa-dcc-server]             | Backend implementation of the process to issue EU Digital Covid Certificate CovidCertificate. |
-| [cwa-documentation]          | Project overview, general documentation and white papers.                                     |
-| [cwa-event-landingpage]      | Landing page for CWA which opens if the user does not have the app installed.                 |
-| [cwa-event-qr-code]          | Utility to generate QR codes for Event Registration.                                          |
-| [cwa-hotline]                | Contains all issues reg. the hotlines of the CWA.                                             |
-| [cwa-icao-transliteration]   | A simple transliteration of non-latin letters into latin for the CWA.                         |
-| [cwa-kotlin-jfn]             | JsonFunctions Engine - DCC Logic.                                                             |
-| [cwa-log-upload]             | Counterpart of the log upload in the app.                                                     |
-| [cwa-parent]                 | Repository containing Maven files for parent project and dependency building blocks.          |
-| [cwa-map-backend]            | Backend of map.schnelltestportal.de.                                                          |
-| [cwa-map-operators-frontend] | Frontend for test center operators to manage their test centers in a simple way.              |
-| [cwa-map-public-frontend]    | Public frontend of map.schnelltestportal.de.                                                  |
-| [cwa-ppa-server]             | Backend implementation for the privacy-preserving analytics server.                           |
-| [cwa-quick-test-backend]     | Backend implementation of the rapid antigen test portal and API for participating partners.   |
-| [cwa-quick-test-frontend]    | Frontend implementation of the rapid antigen test portal for participating partners.          |
-| [cwa-quicktest-onboarding]   | Documentation about onboarding procedure for rapid antigen test partners.                     |
-| [cwa-registrierung]          | Registration portal for the rapid antigen test portal                                         |
-| [cwa-server]                 | Backend implementation for the Apple/Google exposure notification API.                        |
-| [cwa-testresult-server]      | Receives PCR test results from connected laboratories.                                        |
-| [cwa-verification-iam]       | The identity and access management to interact with the verification server.                  |
-| [cwa-verification-portal]    | The portal to interact with the verification server.                                          |
-| [cwa-verification-server]    | Backend implementation of the verification process.                                           |
-| [cwa-website]                | The official website for the Corona-Warn-App.                                                 |
-| [cwa-wishlist]               | Community feature requests.                                                                   |
-| [dcc-rule-translation]       | Translations of Booster Notification Rules.                                                   |
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
-[cwa-app-android]: https://github.com/corona-warn-app/cwa-app-android
-[cwa-app-ccl]: https://github.com/corona-warn-app/cwa-app-ccl
-[cwa-app-ios]: https://github.com/corona-warn-app/cwa-app-ios
-[cwa-dcc-server]: https://github.com/corona-warn-app/cwa-dcc-server
-[cwa-documentation]: https://github.com/corona-warn-app/cwa-documentation
-[cwa-event-landingpage]: https://github.com/corona-warn-app/cwa-event-landingpage
-[cwa-event-qr-code]: https://github.com/corona-warn-app/cwa-event-qr-code
-[cwa-hotline]: https://github.com/corona-warn-app/cwa-hotline
-[cwa-icao-transliteration]: https://github.com/corona-warn-app/cwa-icao-transliteration
-[cwa-kotlin-jfn]: https://github.com/corona-warn-app/cwa-kotlin-jfn
-[cwa-log-upload]: https://github.com/corona-warn-app/cwa-log-upload
-[cwa-parent]: https://github.com/corona-warn-app/cwa-parent
-[cwa-map-backend]: https://github.com/corona-warn-app/cwa-map-backend
-[cwa-map-operators-frontend]: https://github.com/corona-warn-app/cwa-map-operators-frontend
-[cwa-map-public-frontend]: https://github.com/corona-warn-app/cwa-map-public-frontend
-[cwa-ppa-server]: https://github.com/corona-warn-app/cwa-ppa-server
-[cwa-quick-test-backend]: https://github.com/corona-warn-app/cwa-quick-test-backend
-[cwa-quick-test-frontend]: https://github.com/corona-warn-app/cwa-quick-test-frontend
-[cwa-quicktest-onboarding]: https://github.com/corona-warn-app/cwa-quicktest-onboarding
-[cwa-registrierung]: https://github.com/corona-warn-app/cwa-registrierung
-[cwa-server]: https://github.com/corona-warn-app/cwa-server
-[cwa-testresult-server]: https://github.com/corona-warn-app/cwa-testresult-server
-[cwa-verification-iam]: https://github.com/corona-warn-app/cwa-verification-iam
-[cwa-verification-portal]: https://github.com/corona-warn-app/cwa-verification-portal
-[cwa-verification-server]: https://github.com/corona-warn-app/cwa-verification-server
-[cwa-website]: https://github.com/corona-warn-app/cwa-website
-[cwa-wishlist]: https://github.com/corona-warn-app/cwa-wishlist
-[dcc-rule-translation]: https://github.com/corona-warn-app/dcc-rule-translation
+**Consequence**: A permanent ban from any sort of public interaction within the community.
 
-## Licensing
+## Attribution
 
-Copyright (c) 2020-2022 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this file except in compliance with the License.
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
-You may obtain a copy of the License at https://www.apache.org/licenses/LICENSE-2.0.
+[homepage]: https://www.contributor-covenant.org
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the [LICENSE](./LICENSE) for the specific language governing permissions and limitations under the License.
-
-<!-- The website of the Bundesregierung has implemented additional security which causes a 503 error (service unavailable) when any link on their site is tested automatically. -->
-<!-- markdown-link-check-disable -->
-The "Corona-Warn-App" logo is a registered trademark of The Press and Information Office of the Federal Government. For more information please see [bundesregierung.de](https://www.bundesregierung.de/breg-en/federal-government/federal-press-office).
-<!-- markdown-link-check-enable -->
-
-## How to Contribute
-
-Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute, our team setup, the project structure and additional details which you need to know to work with us.
+For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
