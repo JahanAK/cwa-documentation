@@ -14,7 +14,7 @@ HINWEIS: Die [englische Version](<../README (1).md>) der README-Datei ist die ma
 
 Hier ein Kommentar
 
-![](../images/solution\_architecture/ios\_releases.svg)
+
 
 ### Über dieses Projekt
 
