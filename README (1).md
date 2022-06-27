@@ -10,9 +10,9 @@
 
 ## Corona-Warn-App: Documentation
 
-NOTE: This README is also available [in German](translations/README.de.md). Thank you for understanding that the German version might not always be up-to-date with the English one.
+NOTE: This README is also available [in German](translations/readme.de/). Thank you for understanding that the German version might not always be up-to-date with the English one.
 
-HINWEIS: Diese README ist ebenfalls [auf Deutsch](translations/README.de.md) verfügbar. Bitte haben Sie Verständnis, dass die deutsche Version nicht immer auf dem gleichen Stand wie die englische Version ist.
+HINWEIS: Diese README ist ebenfalls [auf Deutsch](translations/readme.de/) verfügbar. Bitte haben Sie Verständnis, dass die deutsche Version nicht immer auf dem gleichen Stand wie die englische Version ist.
 
 ### About this Project
 

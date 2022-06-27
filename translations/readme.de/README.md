@@ -4,19 +4,19 @@
 
 ***
 
-[Über dieses Projekt](README.de.md#über-dieses-projekt) • [Wer wir sind ](README.de.md#wer-wir-sind)• [Danksagungen](README.de.md#danksagungen) • [Datenschutz](README.de.md#datenschutz) • [Code of Conduct](README.de.md#code-of-conduct) • [Arbeitssprache](README.de.md#arbeitssprache) • [Unsere Dokumentation](README.de.md#unsere-dokumentation) • [Lizenzierung](README.de.md#lizenzierung) • [Informationen zur Teilnahme](README.de.md#informationen-zur-teilnahme) • [Webseite](https://www.coronawarn.app/de/)
+[Über dieses Projekt](./#über-dieses-projekt) • [Wer wir sind ](./#wer-wir-sind)• [Danksagungen](./#danksagungen) • [Datenschutz](./#datenschutz) • [Code of Conduct](./#code-of-conduct) • [Arbeitssprache](./#arbeitssprache) • [Unsere Dokumentation](./#unsere-dokumentation) • [Lizenzierung](./#lizenzierung) • [Informationen zur Teilnahme](./#informationen-zur-teilnahme) • [Webseite](https://www.coronawarn.app/de/)
 
 ## Eine Zeile hier
 
 ## Corona-Warn-App: Dokumentation
 
-HINWEIS: Die [englische Version](<../README (1).md>) der README-Datei ist die maßgebliche Fassung. Bitte haben Sie dafür Verständnis, dass die deutsche Version möglicherweise nicht durchgängig auf dem neuesten Stand ist. ich schreibe was
+HINWEIS: Die [englische Version](<../../README (1).md>) der README-Datei ist die maßgebliche Fassung. Bitte haben Sie dafür Verständnis, dass die deutsche Version möglicherweise nicht durchgängig auf dem neuesten Stand ist. ich schreibe was
 
 Hier ein Kommentar
 
 ### Über dieses Projekt
 
-Wir entwickeln die offizielle COVID-19-App zur Kontaktfallbenachrichtigung für Deutschland, die sogenannte "[Corona-Warn-App](https://www.coronawarn.app/de/)". Dieses Projekt hat zum Ziel, eine Anwendung auf der Grundlage einer Technologie mit einem dezentralisierten Ansatz zu entwickeln. Als Grundlage dienen die Protokolle [DP-3T](https://github.com/DP-3T/documents) (Decentralized Privacy-Preserving Proximity Tracing, [Erklär-Comic des Konzeptes](https://github.com/DP-3T/documents/tree/master/public\_engagement/cartoon)) und [TCN](https://tcn-coalition.org/) sowie die Spezifikationen für [Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) von Apple und Google. Wie DP-3T und TCN folgen auch die Apps und die Backend-Infrastruktur dem Open-Source-Prinzip - lizenziert unter [Apache 2.0](../LICENSE/). Die Apps (für iOS und Android) werden pseudonymisierte Daten von Mobiltelefonen in der Umgebung mit Hilfe von Bluetooth-Technologie sammeln. Die Daten werden lokal auf den einzelnen Geräten gespeichert, um so den Zugriff auf die Daten und die Kontrolle über die Daten durch Behörden oder andere Instanzen zu verhindern. Wir erfüllen die geltenden Datenschutzvorgaben und garantieren höchste IT-Sicherheitsstandards. Auf diese Weise stellen wir uns den Datenschutzbedenken der Bevölkerung und hoffen dadurch, die Nutzung der Anwendung zu steigern.
+Wir entwickeln die offizielle COVID-19-App zur Kontaktfallbenachrichtigung für Deutschland, die sogenannte "[Corona-Warn-App](https://www.coronawarn.app/de/)". Dieses Projekt hat zum Ziel, eine Anwendung auf der Grundlage einer Technologie mit einem dezentralisierten Ansatz zu entwickeln. Als Grundlage dienen die Protokolle [DP-3T](https://github.com/DP-3T/documents) (Decentralized Privacy-Preserving Proximity Tracing, [Erklär-Comic des Konzeptes](https://github.com/DP-3T/documents/tree/master/public\_engagement/cartoon)) und [TCN](https://tcn-coalition.org/) sowie die Spezifikationen für [Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) von Apple und Google. Wie DP-3T und TCN folgen auch die Apps und die Backend-Infrastruktur dem Open-Source-Prinzip - lizenziert unter [Apache 2.0](../../LICENSE/). Die Apps (für iOS und Android) werden pseudonymisierte Daten von Mobiltelefonen in der Umgebung mit Hilfe von Bluetooth-Technologie sammeln. Die Daten werden lokal auf den einzelnen Geräten gespeichert, um so den Zugriff auf die Daten und die Kontrolle über die Daten durch Behörden oder andere Instanzen zu verhindern. Wir erfüllen die geltenden Datenschutzvorgaben und garantieren höchste IT-Sicherheitsstandards. Auf diese Weise stellen wir uns den Datenschutzbedenken der Bevölkerung und hoffen dadurch, die Nutzung der Anwendung zu steigern.
 
 ### Wer wir sind
 
@@ -32,7 +32,7 @@ In diesem Projekt berücksichtigen wir die Prinzipien der Datenschutzgrundverord
 
 ### Code of Conduct
 
-Dieses Projekt hat den [Contributor Covenant](https://www.contributor-covenant.org/) in Version 2.0 als unseren Code of Conduct übernommen. Bitte beachten Sie die Einzelheiten in unserem [CODE\_OF\_CONDUCT.md](../). Alle Mitwirkenden müssen sich an den Code of Conduct halten.
+Dieses Projekt hat den [Contributor Covenant](https://www.contributor-covenant.org/) in Version 2.0 als unseren Code of Conduct übernommen. Bitte beachten Sie die Einzelheiten in unserem [CODE\_OF\_CONDUCT.md](../../). Alle Mitwirkenden müssen sich an den Code of Conduct halten.
 
 ### Arbeitssprache
 
@@ -46,14 +46,14 @@ Dieses Repository enthält die Entwicklungsdokumentation und zugehörige Inhalte
 
 Der Projektumfang wurde gemeinsam von der Deutschen Telekom AG sowie der SAP SE als Auftragnehmer und der deutschen Bundesregierung sowie dem Robert Koch-Institut als Auftraggeber festgelegt. Der Projektumfang kann sich im Laufe der Zeit ändern, wenn neue Anforderungen einbezogen werden müssen oder wenn sich bestehende Anforderungen ändern. Wir begrüßen Rückmeldungen zu allen Bestandteilen dieses Dokuments zum Projektumfang. Allerdings müssen zusätzliche Funktionen oder andere inhaltliche Änderungen, die über das Beheben von Grammatik- oder Schreibfehlern hinausgehen, zwischen den Verantwortlichen abgestimmt werden, bevor sie in das Dokument aufgenommen werden können. Vielen Dank für Ihr Verständnis.
 
-* [Corona-Warn-App - Scoping-Dokument](scoping\_document.de.md)
+* [Corona-Warn-App - Scoping-Dokument](../scoping\_document.de.md)
 
 #### Technische Dokumentation
 
 Die technischen Dokumente sind für ein technisches Publikum bestimmt und repräsentieren den neuesten Stand der Architektur. Die Lösungsarchitektur und die Konzepte können sich im Laufe der Zeit ändern, da sich externe Abhängigkeiten (z. B. das von Apple/Google bereitgestellte Framework) noch immer ändern und neue Anforderungen aufgenommen werden müssen oder sich bestehende ändern. Wir freuen uns über Rückmeldungen zu allen Elementen dieser technischen Dokumente.
 
-* [Prüfsteine für die Beurteilung von "Contact Tracing"-Apps](pruefsteine.de.md)
-* [Wie ermittelt die Corona-Warn-App ein erhöhtes Risiko?](cwa-risk-assessment.de.md) (nicht mehr aktuell). Der englischsprachige Dokumentenabschnitt [Solution Architecture > Mobile Application](../solution\_architecture.md#mobile-applications) enthält eine aktuelle Beschreibung.
+* [Prüfsteine für die Beurteilung von "Contact Tracing"-Apps](../pruefsteine.de.md)
+* [Wie ermittelt die Corona-Warn-App ein erhöhtes Risiko?](../cwa-risk-assessment.de.md) (nicht mehr aktuell). Der englischsprachige Dokumentenabschnitt [Solution Architecture > Mobile Application](../../solution\_architecture.md#mobile-applications) enthält eine aktuelle Beschreibung.
 * [Corona-Warn-App Datenschutz-Folgeabschätzung/DSFA (PDF)](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung.pdf), [DSFA Anlage 1a](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage1a.pdf), [DSFA Anlage 1b](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage1b.pdf), [DSFA Anlage 1c](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage1c.pdf), [DSFA Anlage 2](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage2.pdf), [DSFA Anlage 3](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage3.pdf), [DSFA Anlage 4](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage4.pdf), [DSFA Anlage 5](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage5.pdf), [DSFA Anlage 6](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage6.pdf), [DSFA Anlage 7](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage7.pdf) und [DSFA Anlage 8](https://www.coronawarn.app/assets/documents/cwa-datenschutz-folgenabschaetzung-anlage8.pdf)
 
 ### Lizenzierung
@@ -64,10 +64,10 @@ Lizenziert unter **Apache-Lizenz, Version 2.0** (die "Lizenz"). Sie dürfen dies
 
 Eine Kopie der Lizenz erhalten Sie unter https://www.apache.org/licenses/LICENSE-2.0.
 
-Sofern nicht durch anwendbares Recht gefordert oder schriftlich vereinbart, wird jede unter der Lizenz bereitgestellte Software „OHNE MÄNGELGEWÄHR“ UND OHNE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE JEGLICHER ART bereitgestellt. Die genauen Angaben zu Genehmigungen und Einschränkungen unter der Lizenz finden Sie in der [LIZENZ](../LICENSE/).
+Sofern nicht durch anwendbares Recht gefordert oder schriftlich vereinbart, wird jede unter der Lizenz bereitgestellte Software „OHNE MÄNGELGEWÄHR“ UND OHNE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE JEGLICHER ART bereitgestellt. Die genauen Angaben zu Genehmigungen und Einschränkungen unter der Lizenz finden Sie in der [LIZENZ](../../LICENSE/).
 
 Das "Corona-Warn-App"-Logo ist eine registrierte Wort-/Bildmarke des Presse- und Informationsamts der Bundesregierung. Weitere Informationen finden Sie unter [bundesregierung.de](https://www.bundesregierung.de/breg-de/bundesregierung/bundespresseamt).
 
 ### Informationen zur Teilnahme
 
-Weitere Informationen z.B. darüber, wie Sie das Projekt unterstützen können, unser Team aufgebaut ist oder unsere Projektstruktur aussieht, finden Sie hier: [CONTRIBUTING.md](../CONTRIBUTING.md).
+Weitere Informationen z.B. darüber, wie Sie das Projekt unterstützen können, unser Team aufgebaut ist oder unsere Projektstruktur aussieht, finden Sie hier: [CONTRIBUTING.md](../../CONTRIBUTING.md).
