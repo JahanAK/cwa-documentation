@@ -12,6 +12,8 @@ editieren einer Zeile
 
 {% hint style="info" %}
 Jetzt kommt ein Bild über die APP
+
+mit Beispiel
 {% endhint %}
 
 ![](../images/solution\_architecture/ios\_releases.svg)
